@@ -33,7 +33,7 @@
                             "packager": "sduino"
                         }
                     ],
-                    "url": "https://panrbp.github.io/sduino-hosting/sduino-core-mod-0.5.tar.bz2",
+                    "url": "https://panrbp.github.io/sduino-hosting/sduino-core-mod-0.5.zip",
                     "archiveFileName": "sduino-core-mod-0.5.zip",
                     "checksum": "SHA-256:f200ef9e7546044033fdeaa4fd14953a3ce29a50b550c1c329dbc34c609955b3",
                     "size": "2783418"
