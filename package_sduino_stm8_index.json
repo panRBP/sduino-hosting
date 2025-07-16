@@ -1,0 +1,42 @@
+{
+  "packages": [
+    {
+      "name": "sduino",
+      "maintainer": "Custom User",
+      "websiteURL": "https://example.com",
+      "email": "user@example.com",
+      "platforms": [
+        {
+          "name": "Sduino STM8 plain C core (non-C++)",
+          "architecture": "stm8",
+          "version": "0.5-mod",
+          "category": "Contributed",
+          "url": "http://localhost:8080/sduino-core-mod-0.5.tar.bz2",
+			"archiveFileName": "sduino-core-mod-0.5.tar.bz2"
+          "checksum": "SHA-256:b06f7cdc2775d00dac681a9b3d0ef821c727fff9e4f23c1986e6067bd6c433c0",
+          "size": "2191144",
+          "boards": [
+            { "name": "STM8S103F3 Breakout Board" },
+            { "name": "STM8S105C6 Discovery Board" },
+            { "name": "STM8S105K4T6 Breakout Board" },
+            { "name": "sduino UNO (STM8S105K6)" },
+            { "name": "sduino MB (STM8S208MBT6B)" }
+          ],
+          "toolsDependencies": [
+            {
+              "name": "STM8Tools",
+              "version": "2019.02.05",
+              "packager": "sduino"
+            },
+            {
+              "name": "sdcc",
+              "version": "build.11242",
+              "packager": "sduino"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
