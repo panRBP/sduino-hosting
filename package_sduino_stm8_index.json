@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "sduino",
-      "maintainer": "Custom User",
+      "maintainer": "Pancerny",
       "websiteURL": "https://example.com",
       "email": "user@example.com",
       "platforms": [
@@ -11,8 +11,8 @@
           "architecture": "stm8",
           "version": "0.5-mod",
           "category": "Contributed",
-          "url": "http://localhost:8080/sduino-core-mod-0.5.tar.bz2",
-			"archiveFileName": "sduino-core-mod-0.5.tar.bz2"
+          "url": "https://panrbp.github.io/sduino-hosting/sduino-core-mod-0.5.tar.bz2",
+          "archiveFileName": "sduino-core-mod-0.5.tar.bz2",
           "checksum": "SHA-256:b06f7cdc2775d00dac681a9b3d0ef821c727fff9e4f23c1986e6067bd6c433c0",
           "size": "2191144",
           "boards": [
